@@ -108,3 +108,24 @@ html {
   align-items: center;
   margin-top: 15px;
 }
+
+/*final part*/
+
+.phone-photo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+}
+
+.footer1 {
+  font-weight: 300;
+  font-size: 42px;
+  color: #FFFFFF;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+/*footer*/
+
+footer {
